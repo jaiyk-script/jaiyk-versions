@@ -10,5 +10,8 @@
   },
   "jaiyk-spawn": {
     "latest": "1.0.1"
+  },
+  "jaiyk-loadingscreen": {
+    "latest": "1.0.0"
   }
 }
